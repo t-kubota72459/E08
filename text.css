@@ -1,0 +1,14 @@
+h1 {
+  border-bottom: 2px solid black !important;
+  padding-bottom: 5px !important;
+}
+
+.markdown-body .center {
+  display: block !important;
+  text-align: center !important;
+}
+
+.markdown-body .center img {
+  display: inline-block !important;
+  margin: 0 auto !important;
+}
