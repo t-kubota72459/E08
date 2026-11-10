@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
+<rect width="900" height="460" fill="white"/>
+<text x="450" y="38" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold">4本足タクトスイッチ（上面図：教材上の端子名）</text>
+<rect x="246" y="82" width="408" height="260" rx="35" stroke="#444" stroke-width="4" fill="#edf0f3"/>
+<circle cx="450" cy="210" r="77" fill="#dae0e5" stroke="#5e6268" stroke-width="5"/>
+<text x="450" y="219" text-anchor="middle" font-family="sans-serif" font-size="27" fill="#333">押す</text>
+<g stroke="#d08b26" stroke-width="9" stroke-linecap="round"><path d="M206 135 H694"/><path d="M206 287 H694"/></g>
+<g stroke="#8c5d1d" stroke-width="2" fill="#f2b34c"><rect x="234" y="120" width="52" height="30" rx="4"/><rect x="614" y="120" width="52" height="30" rx="4"/><rect x="234" y="272" width="52" height="30" rx="4"/><rect x="614" y="272" width="52" height="30" rx="4"/></g>
+<g font-family="sans-serif" font-size="29" font-weight="bold" fill="#222"><text x="174" y="145">A</text><text x="704" y="145">B</text><text x="174" y="296">C</text><text x="704" y="296">D</text></g>
+<text x="450" y="388" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#ad6a16" font-weight="bold">A–B / C–D：押さなくても導通</text>
+<text x="450" y="423" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#137c58">上段と下段の間：押したときだけ導通</text>
+</svg>

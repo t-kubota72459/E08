@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420">
+<rect width="880" height="420" fill="white"/>
+<text x="440" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold">NORゲート2つ：フィードバック線はまだ描いていない</text>
+<rect x="360" y="94" width="155" height="112" rx="10" fill="#eef5ff" stroke="#38567f" stroke-width="3"/>
+<rect x="360" y="248" width="155" height="112" rx="10" fill="#eef5ff" stroke="#38567f" stroke-width="3"/>
+<g font-family="sans-serif" font-size="26" text-anchor="middle" fill="#263b5d"><text x="438" y="158">NOR</text><text x="438" y="312">NOR</text></g>
+<g stroke="#333" stroke-width="4" fill="none"><path d="M300 126 H360 M300 178 H360 M515 151 H650"/><path d="M300 280 H360 M300 332 H360 M515 305 H650"/></g>
+<g font-family="sans-serif" font-size="20" fill="#222"><text x="95" y="133">RESET（2番）</text><text x="95" y="185">空き入力（3番）</text><text x="95" y="287">SET（5番）</text><text x="95" y="339">空き入力（6番）</text><text x="664" y="158">Q（1番）</text><text x="664" y="312">NOT_Q（4番）</text></g>
+<text x="440" y="400" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#a34233">どの出力を、どちらの空き入力へ戻す？</text>
+</svg>
