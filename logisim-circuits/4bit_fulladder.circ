@@ -58,6 +58,86 @@
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
+    <comp lib="0" loc="(400,300)" name="Pin">
+      <a name="appearance" val="classic"/>
+    </comp>
+    <comp lib="0" loc="(400,340)" name="Pin">
+      <a name="appearance" val="classic"/>
+    </comp>
+    <comp lib="0" loc="(400,380)" name="Pin">
+      <a name="appearance" val="classic"/>
+    </comp>
+    <comp lib="0" loc="(400,420)" name="Pin">
+      <a name="appearance" val="classic"/>
+    </comp>
+    <comp lib="0" loc="(780,620)" name="Clock">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(800,290)" name="D Flip-Flop">
+      <a name="appearance" val="logisim_evolution"/>
+    </comp>
+    <comp lib="5" loc="(800,360)" name="D Flip-Flop">
+      <a name="appearance" val="logisim_evolution"/>
+    </comp>
+    <comp lib="5" loc="(800,430)" name="D Flip-Flop">
+      <a name="appearance" val="logisim_evolution"/>
+    </comp>
+    <comp lib="5" loc="(800,500)" name="D Flip-Flop">
+      <a name="appearance" val="logisim_evolution"/>
+    </comp>
+    <comp loc="(660,280)" name="four_bits_full_adder"/>
+    <wire from="(320,160)" to="(320,400)"/>
+    <wire from="(320,160)" to="(950,160)"/>
+    <wire from="(320,400)" to="(440,400)"/>
+    <wire from="(340,170)" to="(340,360)"/>
+    <wire from="(340,170)" to="(930,170)"/>
+    <wire from="(340,360)" to="(440,360)"/>
+    <wire from="(350,180)" to="(350,320)"/>
+    <wire from="(350,180)" to="(920,180)"/>
+    <wire from="(350,320)" to="(440,320)"/>
+    <wire from="(380,200)" to="(380,280)"/>
+    <wire from="(380,200)" to="(900,200)"/>
+    <wire from="(380,280)" to="(440,280)"/>
+    <wire from="(400,300)" to="(440,300)"/>
+    <wire from="(400,340)" to="(440,340)"/>
+    <wire from="(400,380)" to="(440,380)"/>
+    <wire from="(400,420)" to="(440,420)"/>
+    <wire from="(440,280)" to="(450,280)"/>
+    <wire from="(660,300)" to="(790,300)"/>
+    <wire from="(660,320)" to="(770,320)"/>
+    <wire from="(660,340)" to="(760,340)"/>
+    <wire from="(660,360)" to="(750,360)"/>
+    <wire from="(750,360)" to="(750,510)"/>
+    <wire from="(750,510)" to="(790,510)"/>
+    <wire from="(760,340)" to="(760,440)"/>
+    <wire from="(760,440)" to="(790,440)"/>
+    <wire from="(770,320)" to="(770,370)"/>
+    <wire from="(770,370)" to="(790,370)"/>
+    <wire from="(780,340)" to="(780,410)"/>
+    <wire from="(780,340)" to="(790,340)"/>
+    <wire from="(780,410)" to="(780,480)"/>
+    <wire from="(780,410)" to="(790,410)"/>
+    <wire from="(780,480)" to="(780,550)"/>
+    <wire from="(780,480)" to="(790,480)"/>
+    <wire from="(780,550)" to="(780,620)"/>
+    <wire from="(780,550)" to="(790,550)"/>
+    <wire from="(820,350)" to="(880,350)"/>
+    <wire from="(820,420)" to="(880,420)"/>
+    <wire from="(820,490)" to="(880,490)"/>
+    <wire from="(820,560)" to="(880,560)"/>
+    <wire from="(850,300)" to="(900,300)"/>
+    <wire from="(850,370)" to="(920,370)"/>
+    <wire from="(850,440)" to="(930,440)"/>
+    <wire from="(850,510)" to="(950,510)"/>
+    <wire from="(880,350)" to="(880,420)"/>
+    <wire from="(880,420)" to="(880,490)"/>
+    <wire from="(880,490)" to="(880,560)"/>
+    <wire from="(880,560)" to="(880,630)"/>
+    <wire from="(900,200)" to="(900,300)"/>
+    <wire from="(920,180)" to="(920,370)"/>
+    <wire from="(930,170)" to="(930,440)"/>
+    <wire from="(950,160)" to="(950,510)"/>
   </circuit>
   <circuit name="full_adder">
     <a name="appearance" val="logisim_evolution"/>
